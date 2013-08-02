@@ -2,4 +2,4 @@
 
 ### BY
 
-(CSS3 Animation Cheat Sheet)[http://www.justinaguilar.com/animations/scrolling.html "Animation CSS3"]
+[CSS3 Animation Cheat Sheet](http://www.justinaguilar.com/animations/scrolling.html "Animation CSS3")
