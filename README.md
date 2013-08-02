@@ -1,6 +1,3 @@
-animate-css3
-============
-
 # Animation CSS3
 
 ### BY
